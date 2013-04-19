@@ -13,6 +13,7 @@ typedef struct MyMem
 
 Memoria *PMemoria;
 char cHeap[Limite];
+int nAloc;
 
 void GerMemInit();
 Memoria* BuscarMem(char *);

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1371055869 source:c:\dropbox\testesc\montecarlo\main.cpp
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+	<math.h>
+
+1371357670 source:d:\armazem\internet\dropbox\testesc\montecarlo\main.cpp
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+	<math.h>
+
